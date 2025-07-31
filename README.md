@@ -38,4 +38,4 @@ Sales and marketing teams
 Beginners learning Power BI dashboard creation
 
 Here is Screenshot
-(Superstoresales.png)
+![Dashboard preview].()
